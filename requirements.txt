@@ -1,0 +1,17 @@
+blobfile==2.0.1
+cairosvg==2.6.0
+drawSvg==1.9.0
+imageio==2.19.2
+matplotlib==3.5.1
+mpi4py==3.1.4
+networkx==2.8.2
+numpy==1.21.5
+opencv_python==4.6.0.66
+Pillow==9.4.0
+pytorch_fid==0.3.0
+setuptools==57.5.0
+Shapely==1.8.4
+tensorflow==2.11.0
+torch==2.0.0.dev20221212
+tqdm==4.61.2
+webcolors==1.12

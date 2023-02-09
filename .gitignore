@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+classify_image_graph_def.pb
+datasets
+scripts/rplan
+scripts/houses.npz
+scripts/outputs
+*.npz
+*.gif
+*.pt
+.env
+house_diffusion.egg-info
+scripts/ckpts
+scripts/ckpts_backup
+slurm-*
+embedder/ckpts
+
