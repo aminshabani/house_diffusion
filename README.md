@@ -7,7 +7,7 @@
 Our implementation is based on the public implementation of [guided-diffusion](https://github.com/openai/guided-diffusion). For installation instructions, please refer to their repository. Keep in mind that our current version has not been cleaned and some features from the original repository may not function correctly.
 
 ```
-https://github.com/aminshabani/house_diffusion.git
+git clone https://github.com/aminshabani/house_diffusion.git
 cd house_diffusion
 pip install -r requirements.txt
 pip install -e .
