@@ -44,7 +44,7 @@ python image_train.py --dataset rplan --batch_size 32 --set_name train --target_
 To sample floorplans, you can run the following command from inside of the `scripts` directory. To provide different visualizations, please see the `save_samples` function from `scripts/image_sample.py`
 
 ```
-python image_sample.py --dataset rplan --batch_size 32 --set_name eval --target_set 8 --model_path ckpts/exp/model250000.pt --num_samples 64
+python ./scripts/image_sample.py --dataset rplan --batch_size 32 --set_name eval --target_set 8 --model_path ckpts/exp/model250000.pt --num_samples 64
 ```
 You can also run the corresponding code from `scripts/script.sh`. 
 
